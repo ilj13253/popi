@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/info": "pages/info.js",
+  "/like-demo": "pages/like-demo.js",
+  "/ToDoApp2": "pages/ToDoApp2.js",
+  "/Calendar": "pages/Calendar.js",
+  "/ToDoApp": "pages/ToDoApp.js"
+}
